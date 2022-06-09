@@ -1,8 +1,8 @@
-# Ironhack Final Project - 
+# Ironhack Final Project
+## Cocktail/Mocktail flavor trends
 by [Roger Serret](https://github.com/rogerserret) & [Cath Vos](https://github.com/cathvos), June 2022
 <br/><br/>
 
-## Cocktail/Mocktail flavor trends
 
 ![Classification Case Study](https://github.com/cathvos/IH-final-project/blob/main/Presentation/image%20readme.jpeg?raw=true)
 
