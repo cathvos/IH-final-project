@@ -4,7 +4,7 @@ by [Roger Serret](https://github.com/rogerserret) & [Cath Vos](https://github.co
 <br/><br/>
 
 
-![Classification Case Study](https://github.com/cathvos/IH-final-project/blob/main/Presentation/image%20readme.jpeg?raw=true)
+![Final Project](https://github.com/cathvos/IH-final-project/blob/main/Presentation/Images/image%20readme.jpeg?raw=true)
 
 ## Project Brief
 **Scenario:**
