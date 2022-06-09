@@ -60,7 +60,7 @@ Leveraging on cocktail recipe [data](https://github.com/cathvos/IH-final-project
 
 **Visualizations**
 
- - **Plots & Charts:** Tabeau worksheet - [Link to Tableau](https://public.tableau.com/app/profile/roger.serret.aracil/viz/Final_project-Ironhack/TOPHerbsComplementstrendline))
+ - **Plots & Charts:** Tabeau worksheet - [Link to Tableau](https://public.tableau.com/app/profile/roger.serret.aracil/viz/Final_project-Ironhack/TOPHerbsComplementstrendline)
  - **Presentation:** PowerPoint - [Link to Presentation folder](https://github.com/cathvos/IH-final-project/tree/main/Presentation)<br/>
 
 
