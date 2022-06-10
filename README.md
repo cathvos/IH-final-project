@@ -66,7 +66,11 @@ Leveraging on cocktail recipe [data](https://github.com/cathvos/IH-final-project
 
 ## Key Take Aways
 
-### 1.  
+1. We have validated that nolo drinks are a trend.
+2. The most popular ingredients:
+- **Fruits**: Orange, Grapefruit and Cranberry
+- **Condiments**: Ginger, Syrups and Bitters
+- **Spirits**: Gin, Rum and Vodka
 
 **Thank you for reading!** <br/>
 If you have any questions, please reach out to us.<br/><br/>
